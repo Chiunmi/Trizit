@@ -1,0 +1,2 @@
+# Trizit
+IoT/Automata Trizit
